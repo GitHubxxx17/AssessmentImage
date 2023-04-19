@@ -7,7 +7,7 @@
 3. 使用`flex`布局
 4. 视频可播放
 5. 总结文档详细，代码有注释
-
+ 
 ### 不足：
 >1. 没有用overflow隐藏超出的部分
 ![](https://githubxxx17.github.io/AssessmentImage/cmBug01.png)
